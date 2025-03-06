@@ -14,3 +14,7 @@ matplotlib,
 keras,
 tensorflow,
 scikit-learn,
+
+Designed and implemented a Cat vs. Dog image classifier using Convolutional Neural Networks (CNNs) and deep learning techniques.
+Leveraged TensorFlow and Keras for model development, achieving robust performance in classifying images of cats and dogs.
+Preprocessed and augmented a sizable dataset to improve model generalization and mitigate overfitting.
